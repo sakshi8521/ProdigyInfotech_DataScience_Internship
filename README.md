@@ -6,7 +6,7 @@ This project involves performing Exploratory Data Analysis (EDA) on global popul
 
 ## 📊 Dataset Information
 The analysis utilizes standard World Bank datasets:
-*   **Main Dataset:** `API_SP.POP.TOTL_DS2_en_csv_v2_127039.csv` (Time-series population data).
+*   **Main Dataset:** `TimelineData.csv` (Time-series population data).
 *   **Metadata:** `Metadata_Country_API_SP.POP.TOTL_DS2_en_csv_v2_127039.csv` (Regional and income group classifications).
 
 ## 🛠️ Requirements
