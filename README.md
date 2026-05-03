@@ -16,7 +16,7 @@ The analysis utilizes standard World Bank datasets:
 
 ## 🚀 Execution Steps
 
-### 1. Data Loading
+### 1.  Data Loading
 The World Bank CSV contains 4 rows of metadata at the top. We use `skiprows=4` to access the clean data table[cite: 1].
 ```python
 import pandas as pd
